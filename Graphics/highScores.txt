@@ -1,0 +1,14 @@
+33213    Galen
+13521    Bobblefruit
+8555    Galen
+4982    aaa
+4915    foo
+3313    cohen
+3000    starfox
+2000    spyro
+1381    Kermit
+506    SinBad
+165    Mr.T
+29    fooBar
+10    Pippin
+0    f

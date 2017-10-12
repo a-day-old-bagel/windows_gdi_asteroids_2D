@@ -1,0 +1,57 @@
+CREDITS:
+___________
+
+Galen Cochrane,
+Ted Delzene
+
+Images:
+
+"Meteor Falling to Earth" Used on title page.
+By State Farm (Flickr: Meteor falling to Earth)
+[CC-BY-2.0 (http://creativecommons.org/
+licenses/by/2.0)], via Wikimedia Commons
+
+Background image of Earth credits of NASA, via Wikimedia Commons under public domain license.
+
+Image of player's ship came with the materials provided me for this assignment.  I do not know
+its source, but I have modified it to suit my needs. The same is true of the picture of the meteor/asteroid.
+
+The images of the alien ships I drew myself (Galen Cochrane).
+
+The images of the projectiles (bullets) are also my own work, as are the images of the alien ships' shields and their little red broadcast signal things.
+
+The images presented in the level loading screens are also my own work, except where the picture of the meteor is shown once.
+
+Music:
+
+Background Music:
+"Black Vortex" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+Level Win Music:
+"Take a Chance" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+Lose Music:
+"Vortex" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+Sound Effects:
+
+All sound effects are derived from royalty-free sounds downloaded from soundbible.com.
+
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+Or public domain license.
+
+The accredited:
+
+Mike Koenig
+Matt Cutillo
+Richard
+Marvin
+CouchMango
+Sonidor

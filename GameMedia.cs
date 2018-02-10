@@ -26,7 +26,13 @@ namespace Asteroids2._0
         static public Dictionary<string, Image> getImg = new Dictionary<string, Image>();       // dictionary of pre-loaded imaages
         static public void InitializeMedia()
         {
-            string MediaDirectory = System.IO.Directory.GetCurrentDirectory().Replace("\\bin\\Debug", "\\Graphics");
+            string wrongDirectoryThanksMicrosoft;
+            #if DEBUG
+                 wrongDirectoryThanksMicrosoft = "\\bin\\Debug;
+            #else
+                 wrongDirectoryThanksMicrosoft = "\\bin\\Release";
+            #endif
+            string MediaDirectory = System.IO.Directory.GetCurrentDirectory().Replace(wrongDirectoryThanksMicrosoft, "\\Graphics");
             getDir.Add("asteroidPIC0", MediaDirectory + "\\Asteroid1s.png");
             getDir.Add("asteroidPIC1", MediaDirectory + "\\Asteroid2s.png");
             getDir.Add("asteroidPIC2", MediaDirectory + "\\Asteroid3s.png");
